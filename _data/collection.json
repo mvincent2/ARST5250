@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Test for ARST 5250" ] },
+    "summary": { "en": [ "This is for an assignment" ] },
+    "items": [
+    ]
+}
